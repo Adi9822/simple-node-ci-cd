@@ -1,0 +1,12 @@
+{
+  "name": "simple-node-ci-cd",
+  "version": "1.0.0",
+  "description": "Node.js CI/CD Demo with GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "Adi9822",
+  "license": "MIT"
+}
