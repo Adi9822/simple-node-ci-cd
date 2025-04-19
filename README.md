@@ -6,3 +6,8 @@
 ![License](https://img.shields.io/github/license/Adi9822/simple-node-ci-cd)
 
 This is a basic Node.js project to demonstrate CI/CD with GitHub Actions.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
